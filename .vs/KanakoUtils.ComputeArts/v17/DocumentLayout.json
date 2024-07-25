@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B18BE595-E663-4205-B548-2FC8CAB95B2F}|KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj|e:\\wangyumengs\\utils\\kanakoutils.computearts\\kanakoutils.computeanims\\kanakoutils.computeanims.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B18BE595-E663-4205-B548-2FC8CAB95B2F}|KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj|solutionrelative:kanakoutils.computeanims\\kanakoutils.computeanims.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{B18BE595-E663-4205-B548-2FC8CAB95B2F}|KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj|e:\\wangyumengs\\utils\\kanakoutils.computearts\\kanakoutils.computeanims\\interpolations\\interpolate_sinanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18BE595-E663-4205-B548-2FC8CAB95B2F}|KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj|solutionrelative:kanakoutils.computeanims\\interpolations\\interpolate_sinanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KanakoUtils.ComputeAnims",
-              "DocumentMoniker": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
-              "RelativeDocumentMoniker": "KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
-              "ToolTip": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
-              "RelativeToolTip": "KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-25T02:25:48.233Z",
+              "Title": "Interpolate_SinAnim.cs",
+              "DocumentMoniker": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\KanakoUtils.ComputeAnims\\Interpolations\\Interpolate_SinAnim.cs",
+              "RelativeDocumentMoniker": "KanakoUtils.ComputeAnims\\Interpolations\\Interpolate_SinAnim.cs",
+              "ToolTip": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\KanakoUtils.ComputeAnims\\Interpolations\\Interpolate_SinAnim.cs",
+              "RelativeToolTip": "KanakoUtils.ComputeAnims\\Interpolations\\Interpolate_SinAnim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:41:11.51Z",
               "EditorCaption": ""
             }
           ]

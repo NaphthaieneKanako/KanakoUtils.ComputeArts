@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NaphthaieneKanako")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022ebead901dbd4b00d0cc5dbfa071ad565268fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("KanakoUtils.ComputeArts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KanakoUtils.ComputeAnims")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
