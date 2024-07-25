@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B18BE595-E663-4205-B548-2FC8CAB95B2F}|KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj|e:\\wangyumengs\\utils\\kanakoutils.computearts\\kanakoutils.computeanims\\kanakoutils.computeanims.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B18BE595-E663-4205-B548-2FC8CAB95B2F}|KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj|solutionrelative:kanakoutils.computeanims\\kanakoutils.computeanims.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KanakoUtils.ComputeAnims",
+              "DocumentMoniker": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
+              "RelativeDocumentMoniker": "KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
+              "ToolTip": "E:\\WangYuMengs\\Utils\\KanakoUtils.ComputeArts\\KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
+              "RelativeToolTip": "KanakoUtils.ComputeAnims\\KanakoUtils.ComputeAnims.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T02:25:48.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
